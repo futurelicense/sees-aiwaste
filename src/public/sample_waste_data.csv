@@ -1,0 +1,21 @@
+city,state,latitude,longitude,waste_amount,waste_type,sector,collection_date,notes
+Lagos,Lagos,6.5244,3.3792,1250.5,Mixed,Commercial,2024-01-15,High-density commercial area waste collection
+Ikeja,Lagos,6.6018,3.3515,458.2,Plastic,Commercial,2024-01-16,Shopping district recycling initiative
+Abuja,FCT,9.0765,7.3986,892.3,Organic,Residential,2024-01-14,Central market waste collection
+Kano,Kano,12.0022,8.5920,567.8,Mixed,Industrial,2024-01-15,Industrial zone collection
+Port Harcourt,Rivers,4.8156,7.0498,634.2,Electronic,Institutional,2024-01-13,Tech hub e-waste collection
+Ibadan,Oyo,7.3775,3.9470,423.6,Organic,Commercial,2024-01-14,Restaurant district collection
+Kaduna,Kaduna,10.5222,7.4384,345.9,Paper,Commercial,2024-01-12,Office complex recycling
+Enugu,Enugu,6.4584,7.5464,289.4,Glass,Commercial,2024-01-15,Bottle recycling program
+Aba,Abia,5.1167,7.3667,567.8,Plastic,Commercial,2024-01-16,Market area collection
+Onitsha,Anambra,6.1667,6.7833,678.3,Mixed,Commercial,2024-01-15,Commercial district
+Warri,Delta,5.5167,5.7500,234.5,Hazardous,Industrial,2024-01-14,Industrial waste management
+Maiduguri,Borno,11.8333,13.1500,345.6,Medical,Healthcare,2024-01-13,Hospital waste collection
+Jos,Plateau,9.9333,8.8833,234.5,Construction,Industrial,2024-01-15,Development zone debris
+Benin City,Edo,6.3176,5.6145,456.7,Metal,Industrial,2024-01-16,Industrial recycling program
+Calabar,Cross River,4.9500,8.3250,345.6,Organic,Commercial,2024-01-14,Tourist area collection
+Sokoto,Sokoto,13.0622,5.2339,234.5,Mixed,Residential,2024-01-15,Residential area collection
+Akure,Ondo,7.2571,5.2058,178.9,Paper,Public Spaces,2024-01-16,Government office recycling
+Bauchi,Bauchi,10.3167,9.8333,289.4,Plastic,Commercial,2024-01-15,Market recycling initiative
+Abeokuta,Ogun,7.1500,3.3500,345.6,Glass,Commercial,2024-01-14,Bottle collection program
+Yola,Adamawa,9.2000,12.4833,156.7,Electronic,Educational,2024-01-13,Tech waste collection
